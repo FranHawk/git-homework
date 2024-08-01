@@ -7,6 +7,5 @@ if __name__ == "__main__":
     print("This is master branch")
     print("this is master branch 12345")
     dev_print()
-    print("This is master branch after 1st merge")
+    print("This is feature branch after 1st merge")
     print("Hello 12345")
-    print("Hello 56789")
